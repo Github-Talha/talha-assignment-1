@@ -1,0 +1,172 @@
+body{
+    margin: 0;
+    padding:0;
+    
+
+}
+.main-div{
+    display: flex;
+   
+}
+
+
+.first-left-div{
+    margin: 60px 210px 0 200px;
+    
+}
+#mission{
+   color: rgb(11, 144, 111);
+   font-family:'Luxurious Roman', cursive;;
+}
+.first-left-div p{
+    width: 370px;
+    font-size: 18px;
+}
+.first-left-div h1{
+    font-size: 60px;
+    margin: 5px 5px 0 0;
+
+}
+.btn-1{
+    padding: 9px;
+    background-image: linear-gradient(rgb(27, 187, 216),rgb(23, 187, 179),rgb(9, 109, 112));
+    border: none;
+    border-radius: 5px;
+    font-weight: 600;
+}
+.my-mission{
+    text-align: center;
+    margin-top: 150px;
+    margin-bottom: 120px;
+    font-size:50px;
+}
+.my{
+    background-color: rgb(9, 136, 125);
+    padding: 14px 5px;
+    border-radius:50%;
+    color: white;
+    
+}
+.year-2022{
+    color: brown;
+    font-size: 60px;
+}
+.main-div2{
+    display: inline-flex;
+    position: relative;
+    left: 200px;
+}
+.main-div2 div{
+    width: 270px;
+    text-align: center;
+    background-color: rgb(140, 18, 197);
+    padding: 40px;
+    border-radius: 15px;
+}
+.main-div2 img{
+    width: 70%;
+}
+#div-2{
+    background-color: rgb(179, 32, 184);
+    margin: 0 80px;
+}
+#div-3{
+    background-color: rgb(63, 15, 195);
+
+}
+.main-div-3{
+    display: flex;    
+}
+.main-div-3 img{
+    width: 50%;
+    margin: 80px 0 0 200px;
+    border-radius: 20px;
+    
+}
+#details-div-3{
+    position: relative;
+    right: 300px;
+    top: 90px;
+   
+}
+.div4-main{
+    display: flex;
+}
+.div4-img img{
+    width: 50%;
+    border-radius: 20px;
+    position: relative;
+    top: 100px;
+    left: 283px;
+}
+.div4-details{
+    position: relative;
+    left: 200px;
+    top: 120px;
+
+}
+.aducation{
+    text-align: center;
+    position:relative;
+    top: 150px;
+    font-size: 60px;
+    color: rgb(1, 128, 144);
+    border: 1px black solid;
+    border-radius: 5px;
+    width: 500px;
+    margin: 0 auto;
+}
+.div5-main{
+    display: flex;
+    
+}
+.div5-img img{
+    width: 50%;
+    position: relative;
+    top: 200px;
+    left: 200px;
+    box-shadow: 0 0px 13px rgba(11, 12, 12, 0.514);
+    border-radius: 10px;
+}
+.div5-details{
+    position: relative;
+    top: 200px;
+    right: 220px;
+
+}
+footer{
+    text-align: center;
+    background-color: black;
+    margin-top: 300px;
+    height: 200px;
+}
+.footer-text{
+    color: white;
+    position: relative;
+    top: 60px;
+}
+#footer-tex-mission{
+    font-family:'Vujahday Script', cursive;
+}
+#footer-text-2022{
+    color: tomato;
+    font-family:'Vujahday Script', cursive;
+    font-size: 40px;
+}
+#extra{
+    position: relative;
+    left: 85px;
+}
+.extra{
+    position: relative;
+    left: 85px;
+}
+.extra-2{
+    color: white;
+}
+#stay-back{
+    background-image: url(line.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    padding-left: 13px;
+}
